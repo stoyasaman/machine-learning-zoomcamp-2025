@@ -1,7 +1,7 @@
 practice/*
 homework/02-regression/*.csv
 homework/03-classification/*.csv
-
+homework/04-evaluation/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
